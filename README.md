@@ -1,5 +1,10 @@
 #  Bike Sharing Dashboard
 
+## Authors
+
+- [@hanif-alazis](https://www.github.com/hanif-alazis)
+
+
 ## Screenshots
 
 ![App Screenshot](img/ss.png)
